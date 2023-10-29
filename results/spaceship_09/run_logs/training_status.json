@@ -1,0 +1,32 @@
+{
+    "checkpoint_radius": {
+        "lesson_num": 1
+    },
+    "AircraftLearning": {
+        "checkpoints": [
+            {
+                "steps": 234420,
+                "file_path": "results\\spaceship_09\\AircraftLearning\\AircraftLearning-234420.onnx",
+                "reward": 1.943407327450555,
+                "creation_time": 1688878549.1721826,
+                "auxillary_file_paths": [
+                    "results\\spaceship_09\\AircraftLearning\\AircraftLearning-234420.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 234420,
+            "file_path": "results\\spaceship_09\\AircraftLearning.onnx",
+            "reward": 1.943407327450555,
+            "creation_time": 1688878549.1721826,
+            "auxillary_file_paths": [
+                "results\\spaceship_09\\AircraftLearning\\AircraftLearning-234420.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

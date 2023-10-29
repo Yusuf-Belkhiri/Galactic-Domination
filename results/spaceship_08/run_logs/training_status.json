@@ -1,0 +1,59 @@
+{
+    "checkpoint_radius": {
+        "lesson_num": 1
+    },
+    "AircraftLearning": {
+        "checkpoints": [
+            {
+                "steps": 999876,
+                "file_path": "results\\spaceship_08\\AircraftLearning\\AircraftLearning-999876.onnx",
+                "reward": 2.0808443472516247,
+                "creation_time": 1688873385.3439984,
+                "auxillary_file_paths": [
+                    "results\\spaceship_08\\AircraftLearning\\AircraftLearning-999876.pt"
+                ]
+            },
+            {
+                "steps": 1499992,
+                "file_path": "results\\spaceship_08\\AircraftLearning\\AircraftLearning-1499992.onnx",
+                "reward": 2.2749869731902064,
+                "creation_time": 1688874229.1882236,
+                "auxillary_file_paths": [
+                    "results\\spaceship_08\\AircraftLearning\\AircraftLearning-1499992.pt"
+                ]
+            },
+            {
+                "steps": 1999999,
+                "file_path": "results\\spaceship_08\\AircraftLearning\\AircraftLearning-1999999.onnx",
+                "reward": 3.0836947188511785,
+                "creation_time": 1688875194.6600995,
+                "auxillary_file_paths": [
+                    "results\\spaceship_08\\AircraftLearning\\AircraftLearning-1999999.pt"
+                ]
+            },
+            {
+                "steps": 2499996,
+                "file_path": "results\\spaceship_08\\AircraftLearning\\AircraftLearning-2499996.onnx",
+                "reward": 2.0858541041878715,
+                "creation_time": 1688876176.4579995,
+                "auxillary_file_paths": [
+                    "results\\spaceship_08\\AircraftLearning\\AircraftLearning-2499996.pt"
+                ]
+            },
+            {
+                "steps": 2999935,
+                "file_path": "results\\spaceship_08\\AircraftLearning\\AircraftLearning-2999935.onnx",
+                "reward": 2.1698138661268684,
+                "creation_time": 1688877229.4558878,
+                "auxillary_file_paths": [
+                    "results\\spaceship_08\\AircraftLearning\\AircraftLearning-2999935.pt"
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
