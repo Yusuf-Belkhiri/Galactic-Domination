@@ -1,2 +1,2 @@
 # Galactic-Domination
- Galaxy racing game made with UNITY
+Open Source AI Game Jam - Galaxy racing game made with Unity, ML-agents toolkit
